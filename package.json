@@ -1,0 +1,22 @@
+{
+  "name": "eti_16",
+  "version": "1.0.0",
+  "description": "excel的头部16进制编号生成器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Osub/eti.git"
+  },
+  "keywords": [
+    "excel"
+  ],
+  "author": "webstar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Osub/eti/issues"
+  },
+  "homepage": "https://github.com/Osub/eti"
+}
